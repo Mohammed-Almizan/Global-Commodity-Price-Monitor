@@ -41,7 +41,7 @@ The dashboard presents:
 •	Key performance indicators.
 ![Global Commodity Price Monitor Dashboard](images/Final_Dashboard.jpg)
 8. Project Files
-•	Original dataset.xlsx – Analysis workbook and dashboard.
-•	data/raw/ – Original dataset.
+•	Global_Commodity_Price_Monitor.xlsx – Analysis workbook and dashboard.
+•	data/raw/ – Historical-Data-Monthly.xlsx.
 •	data/processed/ – Prepared analytical data.
 •	images/ – Dashboard screenshots.
