@@ -1,0 +1,17 @@
+Index_Name,Growth_Percentage,Monthly_Volatility,Growth_Rank,Volatility_Rank,Growth_Volatility_Category
+Precious Metals,1234.45%,4.17%,1,9,High Growth - Low Volatility
+Energy,379.28%,8.49%,2,1,High Growth - High Volatility
+Fertilizers,351.83%,6.95%,3,2,High Growth - High Volatility
+Total Index,295.76%,5.99%,4,3,High Growth - High Volatility
+Base Metals,261.38%,5.00%,5,4,High Growth - High Volatility
+Metals & Minerals,256.86%,4.95%,6,5,High Growth - High Volatility
+Beverages,240.82%,4.62%,7,6,High Growth - High Volatility
+Oils & Meals,184.83%,4.39%,8,7,High Growth - High Volatility
+Non-energy,176.29%,2.77%,9,13,Low Growth - Low Volatility
+Food,157.17%,3.07%,10,11,Low Growth - Low Volatility
+Other Raw Materials,154.80%,3.59%,11,10,Low Growth - Low Volatility
+Grains,143.58%,4.25%,12,8,Low Growth - High Volatility
+Agriculture,138.17%,2.50%,13,14,Low Growth - Low Volatility
+Other Food,137.57%,3.03%,14,12,Low Growth - Low Volatility
+Raw Materials,57.09%,2.07%,15,15,Low Growth - Low Volatility
+Timber,9.54%,1.93%,16,16,Low Growth - Low Volatility
