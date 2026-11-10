@@ -39,6 +39,7 @@ The dashboard presents:
 •	Monthly volatility comparison.
 •	Annual commodity performance heatmap.
 •	Key performance indicators.
+![Global Commodity Price Monitor Dashboard](images/Final_Dashboard.jpg)
 8. Project Files
 •	Global_Commodity_Price_Monitor.xlsx – Analysis workbook and dashboard.
 •	data/raw/ – Original dataset.
